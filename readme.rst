@@ -1,4 +1,26 @@
 ###################
+Website Inventory Barang
+###################
+Website ini dibangun untuk memenuhi nilai Ujian Akhir Semester dan Tugas Besar 2 matakuliah Pemrograman web 2
+*******************
+Developer Information
+*******************
+Nama : Hosea Leonardo
+NIM : 41518310018
+
+*******************
+Akses Information
+*******************
+Untuk login website inventory barang ini bisa menggunakan akun :
+Super admin
+email : dev@developer.com
+password : test1234
+
+User :
+Email : user@developer.com
+password : test1234
+
+###################
 What is CodeIgniter
 ###################
 
